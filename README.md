@@ -46,6 +46,4 @@ with varying data-types.
 - It was required to club the data and then process it further for the analyzing.
 - Processing large volume of data also caused memory issues which was then handled by 
 memory management.[Dataset.xlsx](https://github.com/madhav181/Extended-Warranty-Project/files/10368855/Dataset.xlsx)
-[Dataset.xlsx](https://github.com/madhav181/Extended-Warranty-Project/files/10368854/Dataset.xlsx)
 [Schema.xlsx](https://github.com/madhav181/Extended-Warranty-Project/files/10368858/Schema.xlsx)
-[Schema.xlsx](https://github.com/madhav181/Extended-Warranty-Project/files/10368859/Schema.xlsx)
